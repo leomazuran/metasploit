@@ -2,4 +2,4 @@ This is a self-running metasploit program. That exploit an android device then p
 "EnternalBlue" (ms17-10) attack.
 Requirments:
 1. Updates Kali Linux 
-2. Most have python 2.7, mfsconsole and proxychain.
+2. Most have python 2.7, mfsconsole proxychain and apache.
